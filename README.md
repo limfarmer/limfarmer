@@ -1,3 +1,7 @@
-![limfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=limfarmer&show_icons=true&theme=dracula)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  ![limfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=limfarmer&show_icons=true&theme=dracula&hide_rank=true)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limfarmer)](https://github.com/limfarmer/github-readme-stats)
+
+<div style="display :flex; ">
+
+</div>
