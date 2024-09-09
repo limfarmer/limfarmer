@@ -1,6 +1,6 @@
 🧑 Hello! I'm Limfarmer!
 
-📖notion : https://www.notion.so/50354f2037474aab8bde41c04d20c159 <br>
+📖Notion : https://www.notion.so/50354f2037474aab8bde41c04d20c159 <br>
 
   ![limfarmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=limfarmer&show_icons=true&theme=dracula&hide_rank=true) 
   
