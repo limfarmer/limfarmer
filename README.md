@@ -3,6 +3,7 @@
 ## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=limfarmer alt=limfarmer /> </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaeocjf123)](https://solved.ac/dlaeocjf123/)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=limfarmer&show_icons=true&include_all_commits=true&hide_rank=true)](https://github.com/limfarmer/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limfarmer&layout=compact)](https://github.com/limfarmer/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlaeocjf123)](https://solved.ac/dlaeocjf123/)
+
