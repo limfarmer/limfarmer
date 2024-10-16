@@ -1,5 +1,5 @@
 ## Hello 👋, This is Lim JeongHu
-[![Gmail Badge](https://img.shields.io/badge/-dlaeocjf94@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dlaeocjf94@naver.com)](mailto:dlaeocjf94@naver.com) [![Github Badge](https://img.shields.io/badge/-limfarmer-grey?style=flat&logo=github&logoColor=white&link=https://github.com/limfarmer/)](https://www.github.com/limfarmer/) <p align='left'>'It always seems impossible until it’s done.'</p><p align='left' style='color =red'>  <a href='https://www.notion.so/50354f2037474aab8bde41c04d20c159 ' target=_blank ><u>Notion Link</u></a></p>
+[![Gmail Badge](https://img.shields.io/badge/-dlaeocjf94@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dlaeocjf94@naver.com)](mailto:dlaeocjf94@naver.com) [![Github Badge](https://img.shields.io/badge/-limfarmer-grey?style=flat&logo=github&logoColor=white&link=https://github.com/limfarmer/)](https://www.github.com/limfarmer/) <p align='left'>'It always seems impossible until it’s done.'</p><p align='left' style='color =red'>  <a href='https://www.notion.so/11f1c6860b6f8036afc2c60936044057' target=_blank ><u>Notion Link</u></a></p>
 ## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=limfarmer alt=limfarmer /> </p>
 
